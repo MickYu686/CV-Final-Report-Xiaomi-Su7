@@ -1,0 +1,6 @@
+#Model List
+yolov11n.pt& yolov8s.pt & yolov8n.pt
+
+#Get Models
+The models are already included in the repository (tracked by Git LFS for large files):
+Run the test command directly Ultralytics will auto-download the model to /.ultralytics/models/ if missing.
