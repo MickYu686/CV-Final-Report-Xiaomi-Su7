@@ -1,5 +1,8 @@
-# Python version: 3.8 or higher
-python>=3.8
-ultralytics>=8.0.0  # my project is based on ultralytics constructure
-torch>=1.8.0  # YOLOv8 depend on PyTorch
+python>=3.8,<3.12
+ultralytics>=8.0.0
+torch>=1.8.0
+torchvision>=0.9.0
 numpy>=1.21.0
+opencv-python>=4.5.5
+Pillow>=8.4.0
+matplotlib>=3.3.0
