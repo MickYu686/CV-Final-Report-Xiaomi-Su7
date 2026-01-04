@@ -5,7 +5,7 @@ This project is based on the Ultralytics YOLOv8 framework for object detection t
 
 1. Requirements: Software
 1.1 Basic Environment
-- Python: 3.8, 3.9, 3.10 (推荐3.9，兼容性最佳 / Recommended: 3.9 for best compatibility)
+- Python: 3.8, 3.9, 3.10 ( Recommended: 3.9 for best compatibility)
 - OS: Windows/Linux/macOS (Linux is recommended for training, Windows for testing)
 
 1.2 Install Dependencies
