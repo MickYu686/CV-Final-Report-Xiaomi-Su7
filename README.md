@@ -1,2 +1,6 @@
 # CV-Final-Report-Xiaomi-Su7
-Xiaomi SU7 Detection and Localization in Real-World Scenarios Using Fine-Tuned YOLOv8 Models
+# Requirements: Software
+- Python version: 3.8 or higher
+- Install dependencies:
+  ```bash
+  pip install -r requirements.txt
