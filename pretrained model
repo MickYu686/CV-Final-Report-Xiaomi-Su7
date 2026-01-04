@@ -1,0 +1,6 @@
+# pretrained models
+# Install Git LFS first (if not installed)
+git lfs install
+# Clone the repository (will pull LFS-tracked model files)
+git clone 
+Run the test command directly Ultralytics will auto-download the model to /.ultralytics/models/ if missing.
