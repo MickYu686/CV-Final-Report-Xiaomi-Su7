@@ -1,0 +1,5 @@
+# Python version: 3.8 or higher
+python>=3.8
+ultralytics>=8.0.0  # my project is based on ultralytics constructure
+torch>=1.8.0  # YOLOv8 depend on PyTorch
+numpy>=1.21.0
